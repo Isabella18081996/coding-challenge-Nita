@@ -1,0 +1,117 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+
+}
+
+.contenitore{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 80px;
+  width: 850px;
+  height: 600px;
+  background-color: rgba(0, 0, 0, 0.5);
+
+  border-radius: 2%;
+  color: white;
+
+}
+
+
+.logo{
+width: 170px;
+height:75px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: 0px;
+padding-top: 75px;
+
+}
+
+.logo-text{
+ padding-left: 25px;
+ padding-right: 25px;
+ padding-top: 7px;;
+ padding-bottom: 2px;
+ color: #00FF00;
+ margin-left:auto;
+ margin-right: auto;
+ margin-top: 1px;
+ margin-bottom: auto;
+ font-size: 23px;
+ text-align: center;
+ font-family: "Comic Sans MS";
+   font-weight:normal;
+}
+
+nav{
+  text-align: center;
+  background-color: #00FF00;
+  margin-left:75px;
+  margin-right: 75px;
+  margin-top: -2px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  padding-bottom: 4px;
+  padding-top: 2px;
+}
+
+button{
+font-size: 10px;
+margin-top: 2px;
+margin-bottom: 2px;
+}
+
+.contenuto{
+
+  margin-left:75px;
+  margin-right: 75px;
+}
+
+h3{
+  display: inline;
+  color: white;
+  font-family: "Comic Sans MS";
+  font-weight:normal;
+  font-size: 16px;
+}
+
+p{
+  font-size: 11.5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  font-family: "Comic Sans MS";
+  opacity: 0.8;
+}
+
+.stato-carica{
+  border: 10px solid #ffcc66;
+  border-radius: 5px;
+  margin-right: 460px;
+  margin-top: 1px;
+  margin-bottom: 15px;
+
+}
+
+.stato-carica1{
+  border: 10px solid #00FF33;
+  border-radius: 5px;
+  margin-right: 270px;
+  margin-top: 1px;
+  margin-bottom: 15px;
+}
+
+.stato-carica2{
+  border: 10px solid #cd5c5c;
+  border-radius: 5px;
+  margin-right: 590px;
+  margin-top: 1px;
+  margin-bottom: 15px;
+}
